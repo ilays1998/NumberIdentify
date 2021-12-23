@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\ilays\Desktop\In\העברית\c-c++\מטלות c++\ex5-ilaysoffer Select CMakeLists.txt
